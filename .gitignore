@@ -5,3 +5,5 @@
 !DinoGame.data
 !.nojekyll
 !.gitignore
+!SourceCode/
+!SourceCode/*
